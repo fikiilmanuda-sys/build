@@ -1372,5 +1372,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-16T05:32:34.254Z"
+  },
+  "msvdu3jy748h0": {
+    "job_id": "msvdu3jy748h0",
+    "release_id": 371243200,
+    "release_tag": "build-msvdu3jy748h0",
+    "run_id": 31929829367,
+    "user_id": 7935949099,
+    "analyze_only": true,
+    "build_type": "analyze",
+    "status": "pending",
+    "created_at": "2026-08-16T05:47:22.236Z"
   }
 }
