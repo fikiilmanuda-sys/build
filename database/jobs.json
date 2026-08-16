@@ -1326,5 +1326,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-16T03:57:35.598Z"
+  },
+  "msvc59pf64cq7": {
+    "job_id": "msvc59pf64cq7",
+    "release_id": 371235376,
+    "release_tag": "build-msvc59pf64cq7",
+    "run_id": 31927954752,
+    "user_id": 8916603352,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-16T05:00:00.422Z"
   }
 }
